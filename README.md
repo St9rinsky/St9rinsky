@@ -5,7 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 * 👋 Hi, I’m Sello Letswalo.
-* 👀 I’m a data analyst who enjoys documenting his learning journey.
+* 😄 I'm a big fan of Excel, SQL, Tableau, and Power BI
+* 👀 I’m also a data analyst who enjoys documenting his learning journey.
 * 🌱 I’m currently learning data storytelling.
 * 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 
