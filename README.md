@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sello-letswalo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
 * 👋 Hi, I’m Sello Letswalo.
 * 👀 I’m a data analyst who enjoys documenting his learning journey.
 * 🌱 I’m currently learning data storytelling.
