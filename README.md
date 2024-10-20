@@ -1,4 +1,7 @@
-## Hi tere 👋
+👋 Hi, I’m Sello Letswalo.
+👀 I’m a data analyst who enjoys documenting his learning journey.
+🌱 I’m currently learning data storytelling.
+💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 
 <!--
 **St9rinsky/St9rinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
