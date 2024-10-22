@@ -11,8 +11,13 @@
 * 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 
 ## Skills and Tools: <div>
-<p align="center">
+<p align="CENTER">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a>
-    <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+</a>
+ <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" title="Tableau" alt="Tableau" width="180" height="60"/>
+</a>
+ <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
+    
 
      
