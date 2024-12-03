@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 * 👋 Hi, I’m Sello Letswalo.
-* 😄 I'm a big fan of Excel, SQL, Tableau, and Power BI
 * 🏫 I'm currently a computer science student at UNISA.
+* 😄 I'm a big fan of Excel, SQL, Tableau, and Power BI
 * 👀 I’m also an aspiring data analyst who enjoys documenting his learning journey.
 * 🌱 I’m currently learning data storytelling and building predictive models.
 * 💞️ I’m open to collaborate on data analysis projects; internships or otherwise.
