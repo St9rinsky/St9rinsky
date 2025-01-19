@@ -6,9 +6,9 @@
 
 * 👋 Hi, I’m Sello Letswalo.
 * 🏫 I'm a data analyst and a computer science student at UNISA.
-* 😄 I'm a big fan of Excel, SQL, Python and Power BI.
+* 👌 I'm a big fan of Excel, SQL, Python and Power BI.
 * 🌱 I’m currently learning data storytelling and building dashboards.
-* 💞️ I’m open to collaborate on data analysis projects; internships or otherwise.
+* 👍 I’m open to collaborate on data analysis projects; internships or otherwise.
 
 ## Skills and Tools: <div>
 <p align="CENTER">
