@@ -4,11 +4,12 @@
   <a href="https://www.linkedin.com/in/sello-letswalo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-* 👋 Hi, I’m Sello Letswalo.
-* 🏫 I'm a data analyst and a computer science student at UNISA.
-* 👌 I'm a big fan of Excel, SQL, Python and Power BI.
-* 🌱 I’m currently learning data storytelling and building dashboards.
-* 👍 I’m open to collaborate on data analysis projects; internships or otherwise.
+ * 👋 Hi, I’m Sello Letswalo
+ * 🧠 "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." Bruce Lee
+ * 🎯 I'm a data analyst and Computer Science student at UNISA with a growing obsession for mastering the core tools of data: SQL, Python, and Power BI.
+ * 📊 I'm currently focused on data storytelling and building insightful dashboards that speak for themselves.
+ * 🔥 Whenever the passion for tech burns, I show up here learning, experimenting, building one focused step at a time.
+ * 🤝 I'm open to collaborations, internships, and data-driven challenges of any kind. Let's connect!
 
 ## Skills and Tools: <div>
 <p align="CENTER">
