@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 About Me
+## 💻 ABOUT ME
 I’m passionate about **data engineering** and building reliable, scalable data systems.  
 I love **Python, SQL, and creating efficient pipelines**, while applying solid software development practices.   
 I also enjoy tackling algorithmic challenges on **Codewars (5kyu)** to strengthen my problem-solving skills.
@@ -18,7 +18,7 @@ Currently focusing on:
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ SKILLS & TOOLS
 **Languages:** Python • SQL • C++ • Java (basics)  
 **Data & Analytics:** Pandas • Power BI • Data Modelling • Fabrics  
 **Developer Tools:** Git • GitHub • VS Code • OOP  
@@ -28,25 +28,23 @@ Currently focusing on:
 
 ---
 
-## 🔭 What I’m Learning
+## 🔭 WHAT I'M LEARNING
 - Advanced **data engineering concepts**  
 - Building **end-to-end data pipelines**  
 - Optimising **databases and storage systems**  
 
 ---
 
-## 🌱 I’m Open To
+## 🌱 I’M OPEN TO
 Collaborations, internships, and **data/software engineering challenges**.  
 Let’s connect and build something impactful!  
 
 ---
 
-## 📫 Connect With Me
- <a href="https://www.linkedin.com/in/sello-letswalo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> • 
- <a href="https://www.codewars.com/users/St9rinsky">
-  <img src="https://img.shields.io/badge/Codewars-5kyu-red?logo=codewars&style=flat-square)" />
-  [![Codewars 5kyu](https://img.shields.io/badge/Codewars-5kyu-red?logo=codewars&style=flat-square)](https://www.codewars.com/users/St9rinsky)
+## 📫 CONNECT WITH ME
+<a href="https://www.linkedin.com/in/sello-letswalo/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> • <a href="https://www.codewars.com/users/St9rinsky">
+  <img src="https://img.shields.io/badge/Codewars-5kyu-red?logo=codewars&style=flat-square)"/>
   
 
      
