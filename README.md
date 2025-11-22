@@ -4,12 +4,47 @@
   <a href="https://www.linkedin.com/in/sello-letswalo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
- * 👋 Hi, I’m Sello Letswalo
- * 🧠 "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." Bruce Lee
- * 🎯 I'm a data analyst and Computer Science student at UNISA with a growing obsession for mastering the core tools of data: SQL, Python, and Power BI.
- * 📊 I'm currently focused on data storytelling and building insightful dashboards that speak for themselves.
- * 🔥 Whenever the passion for tech burns, I show up here learning, experimenting, building one focused step at a time.
- * 🤝 I'm open to collaborations, internships, and data-driven challenges of any kind. Let's connect!
+# 👋 Hi, I'm Sello Letswalo
+
+🎓 **Computer Science student at UNISA** | **Software Developer at WeThinkCode_**  
+Combining strong CS fundamentals with intensive, hands-on coding experience.
+
+---
+
+## 💻 About Me
+I’m passionate about **data engineering** and building reliable, scalable data systems.  
+I love **Python, SQL, and creating efficient pipelines**, while applying solid software development practices.   
+I also enjoy tackling algorithmic challenges on **Codewars (5kyu)** to strengthen my problem-solving skills.
+
+Currently focusing on:  
+- Backend development  
+- Data modelling & pipelines  
+- Practical software projects that bridge theory and real-world applications
+
+---
+
+## 🛠️ Skills & Tools
+**Languages:** Python • SQL • C++ • Java (basics)  
+**Data & Analytics:** Pandas • Power BI • Data Modelling  
+**Developer Tools:** Git • GitHub • VS Code • OOP  
+
+---
+
+## 🔭 What I’m Learning
+- Advanced **data engineering concepts**  
+- Building **end-to-end data pipelines**  
+- Optimising **databases and storage systems**  
+
+---
+
+## 🌱 I’m Open To
+Collaborations, internships, and **data/software engineering challenges**.  
+Let’s connect and build something impactful!  
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/your-link) • [Codewars (5kyu)](https://www.codewars.com/users/St9rinsky)
 
 ## Skills and Tools: <div>
 <p align="CENTER">
