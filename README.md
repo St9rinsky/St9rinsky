@@ -1,4 +1,3 @@
-
 # Hi, I'm Sello Letswalo  👋
 
 🎓 **Computer Science student at UNISA** | **Software Developer at WeThinkCode_**  
