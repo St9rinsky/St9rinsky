@@ -43,7 +43,7 @@ Let’s connect and build something impactful!
 ## 📫 CONNECT WITH ME
 <a href="https://www.linkedin.com/in/sello-letswalo/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> • <a href="https://www.codewars.com/users/St9rinsky">
-  <img src="https://img.shields.io/badge/Codewars-5kyu-red?logo=codewars&style=flat-square)"/>
+  <img src="https://img.shields.io/badge/Codewars-4kyu-red?logo=codewars&style=flat-square)"/>
   
 
      
