@@ -22,7 +22,7 @@ Currently focusing on:
 **Data & Analytics:** Pandas • Power BI • Data Modelling • Fabrics  
 **Developer Tools:** Git • GitHub • VS Code • OOP  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,azure,git,github,gitlab,vscode,bash,pycharm,linux,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite,azure,git,github,gitlab,vscode,bash,pycharm,idea,maven,postgres,spring,postman,qt,linux,cpp" />
 </p>
 
 ---
