@@ -6,31 +6,35 @@
 ---
 
 ## 💻 ABOUT ME
-I’m passionate about **data engineering** and building reliable, scalable data systems.  
-I love **Python, SQL, and creating efficient pipelines**, while applying solid software development practices.   
-I also enjoy tackling algorithmic challenges on **Codewars (5kyu)** to strengthen my problem-solving skills.
+I’m a **backend developer** with a strong interest in **data engineering**, focused on building reliable, scalable, and data-driven systems.
 
-Currently focusing on:  
-- Backend development  
-- Data modelling & pipelines  
-- Practical software projects that bridge theory and real-world applications
+I enjoy working with **Java, SQL, and Python** to design efficient data pipelines and backend services, while applying clean architecture and solid software engineering principles.
+
+I actively sharpen my problem-solving skills through algorithmic challenges on Codewars (4 kyu).
 
 ---
 
 ## 🛠️ SKILLS & TOOLS
-**Languages:** Python • SQL • C++ • Java (basics)  
-**Data & Analytics:** Pandas • Power BI • Data Modelling • Fabrics  
-**Developer Tools:** Git • GitHub • VS Code • OOP  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,azure,git,github,gitlab,vscode,bash,pycharm,idea,maven,postgres,spring,postman,qt,linux,cpp" />
-</p>
+**Languages:**  
+- Java • Python • SQL • C++ (basics)
+
+**Backend Development:**
+- Spring Boot • REST APIs • Object-Oriented Programming
+
+**Data & Analytics:**
+- PostgreSQL • Data Modelling • ETL Pipelines • Pandas • Power BI • Microsoft Fabric • Azure  
+
+**Developer Tools:**
+- Git • GitHub • GitLab • Maven • Postman • VS Code • IntelliJ IDEA • Linux
+ <p align="left"> 
+    <img src="https://skillicons.dev/icons?i=java,python,postgres,azure,spring,maven,git,github,gitlab,vscode,idea,postman,linux,cpp" /> </p>
 
 ---
 
 ## 🔭 WHAT I'M LEARNING
-- Advanced **data engineering concepts**  
-- Building **end-to-end data pipelines**  
-- Optimising **databases and storage systems**  
+- Advanced data engineering concepts (data warehousing, ETL design, and pipeline architecture)
+- Building end-to-end data pipelines (ingestion → transformation → storage → analysis) 
+- Optimising databases and storage systems (query performance, indexing, and data modelling)
 
 ---
 
