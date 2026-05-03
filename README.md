@@ -39,15 +39,26 @@ I actively sharpen my problem-solving skills through algorithmic challenges on C
 ---
 
 ## 🌱 I’M OPEN TO
-Collaborations, internships, and **data/software engineering challenges**.  
-Let’s connect and build something impactful!  
+Collaborations, hackathons, internships, and data/software engineering challenges.  
+Let’s connect and build something impactful.
 
 ---
 
 ## 📫 CONNECT WITH ME
-<a href="https://www.linkedin.com/in/sello-letswalo/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> • <a href="https://www.codewars.com/users/St9rinsky">
-  <img src="https://img.shields.io/badge/Codewars-4kyu-red?logo=codewars&style=flat-square)"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sello-letswalo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:sello.letswalo07@gmail.com?subject=Connect%20or%20Github" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://www.codewars.com/users/St9rinsky" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-4kyu-red?logo=codewars&style=flat-square" />
+  </a>
+</p>
+
   
 
      
