@@ -27,7 +27,7 @@ I actively sharpen my problem-solving skills through algorithmic challenges on C
 **Developer Tools:**
 - Git • GitHub • GitLab • Maven • Postman • VS Code • IntelliJ IDEA • Linux
  <p align="left"> 
-    <img src="https://skillicons.dev/icons?i=java,python,postgres,azure,spring,maven,git,github,gitlab,vscode,idea,postman,linux,cpp" /> </p>
+    <img src="https://skillicons.dev/icons?i=java,python,postgres,azure,spring,maven,docker,git,github,gitlab,vscode,idea,postman,linux,cpp" /> </p>
 
 ---
 
