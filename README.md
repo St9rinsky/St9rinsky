@@ -22,10 +22,10 @@ I actively sharpen my problem-solving skills through algorithmic challenges on C
 - Spring Boot • REST APIs • Object-Oriented Programming
 
 **Data & Analytics:**
-- PostgreSQL • Data Modelling • ETL Pipelines • Pandas • Power BI • Microsoft Fabric • Azure  
+- PostgreSQL • Data Modelling • ETL Pipelines • Pandas • Power BI • Microsoft Fabric • Azure • Apache Spark
 
 **Developer Tools:**
-- Git • GitHub • GitLab • Maven • Postman • VS Code • IntelliJ IDEA • Linux
+- Git • GitHub • GitLab • Maven • Postman • VS Code • IntelliJ IDEA • Linux • Docker
  <p align="left"> 
     <img src="https://skillicons.dev/icons?i=java,python,postgres,azure,spring,maven,docker,git,github,gitlab,vscode,idea,postman,linux,cpp" /> </p>
 
@@ -39,7 +39,7 @@ I actively sharpen my problem-solving skills through algorithmic challenges on C
 ---
 
 ## 🌱 I’M OPEN TO
-Collaborations, hackathons, internships, and data/software engineering challenges.  
+Collaborations, internships, and data/software engineering challenges.  
 Let’s connect and build something impactful.
 
 ---
